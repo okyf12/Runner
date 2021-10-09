@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Gintas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Gintas\\.nuget\\packages"
+    ]
+  }
+}
