@@ -1,0 +1,15 @@
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Runner2\Runner2\bin\Debug\Runner2.exe.config
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Runner2\Runner2\bin\Debug\Runner2.exe
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Runner2\Runner2\bin\Debug\Runner2.pdb
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Runner2\Runner2\obj\Debug\Runner2.csproj.AssemblyReference.cache
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Runner2\Runner2\obj\Debug\MainWindow.g.cs
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Runner2\Runner2\obj\Debug\App.g.cs
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Runner2\Runner2\obj\Debug\Runner2_MarkupCompile.cache
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Runner2\Runner2\obj\Debug\Runner2_MarkupCompile.lref
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Runner2\Runner2\obj\Debug\MainWindow.baml
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Runner2\Runner2\obj\Debug\Runner2.g.resources
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Runner2\Runner2\obj\Debug\Runner2.Properties.Resources.resources
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Runner2\Runner2\obj\Debug\Runner2.csproj.GenerateResource.cache
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Runner2\Runner2\obj\Debug\Runner2.csproj.CoreCompileInputs.cache
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Runner2\Runner2\obj\Debug\Runner2.exe
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Runner2\Runner2\obj\Debug\Runner2.pdb
