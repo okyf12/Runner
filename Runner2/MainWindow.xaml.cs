@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.SignalR.Client;
+using Runner2.Commands;
+using Runner2.Services;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,6 +24,10 @@ namespace Runner2
     /// </summary>
     public partial class MainWindow : Window
     {
+        
+
+        SignalRService rService;
+
         DispatcherTimer gameTimer = new DispatcherTimer();
 
         Rect playerHitBox;
@@ -45,8 +52,22 @@ namespace Runner2
         int[] obstaclePosition = { 320, 310, 300, 305, 315 };
 
         int score = 0;
+
+        public ICommand SendTauntMessageCommand { get; }
+
         public MainWindow()
         {
+            HubConnection connection = new HubConnectionBuilder()           //Connecting to hub
+                .WithUrl("http://localhost:5000/runner").Build();
+
+            rService = new SignalRService(connection);                      //Creating service with the connection
+
+            SendTauntMessageCommand = new SendTauntMessageCommand(rService);
+
+            rService.TauntMessageReceived += SignalRService_TauntMessageReceived;
+
+            rService.Connect();
+
             InitializeComponent();
             MyCanvas.Focus();
 
@@ -59,6 +80,11 @@ namespace Runner2
             background2.Fill = backgroundSprite;
 
             StartGame();
+        }
+
+        private void SignalRService_TauntMessageReceived(string message)
+        {
+            TauntMessage.Content = message;
         }
 
         private void StartGame()
@@ -173,12 +199,22 @@ namespace Runner2
         {
             if (e.Key == Key.Space && gameOver == false && Canvas.GetTop(player) > 260)
             {
+                renameLater();
                 jumping = true;
                 force = 15;
                 speed = -12;
                 playerSprite.ImageSource = new BitmapImage(new Uri("pack://application:,,,/Images/newRunner_02.gif"));
             }
         }
+
+        private async Task renameLater()
+        {
+            await rService.SendTauntMessage("zinute");
+        }
+
+
+
+
         private void RunSprite(double i)
         {
             switch (i)
@@ -210,6 +246,10 @@ namespace Runner2
             }
             player.Fill = playerSprite;
         }
+
+        //-------Sending to server---
+
+       
 
     }
 }
