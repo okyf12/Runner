@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gintas\\Desktop\\runer\\Runner.SignalR\\Runner.SignalR.csproj": {}
+    "D:\\OneDrive - Kaunas University of Technology\\Univeras4-1\\Objektinis programų projektavimas\\Projektas2\\Runner.SignalR\\Runner.SignalR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gintas\\Desktop\\runer\\Runner.SignalR\\Runner.SignalR.csproj": {
+    "D:\\OneDrive - Kaunas University of Technology\\Univeras4-1\\Objektinis programų projektavimas\\Projektas2\\Runner.SignalR\\Runner.SignalR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gintas\\Desktop\\runer\\Runner.SignalR\\Runner.SignalR.csproj",
+        "projectUniqueName": "D:\\OneDrive - Kaunas University of Technology\\Univeras4-1\\Objektinis programų projektavimas\\Projektas2\\Runner.SignalR\\Runner.SignalR.csproj",
         "projectName": "Runner.SignalR",
-        "projectPath": "C:\\Users\\Gintas\\Desktop\\runer\\Runner.SignalR\\Runner.SignalR.csproj",
-        "packagesPath": "C:\\Users\\Gintas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gintas\\Desktop\\runer\\Runner.SignalR\\obj\\",
+        "projectPath": "D:\\OneDrive - Kaunas University of Technology\\Univeras4-1\\Objektinis programų projektavimas\\Projektas2\\Runner.SignalR\\Runner.SignalR.csproj",
+        "packagesPath": "C:\\Users\\monik\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive - Kaunas University of Technology\\Univeras4-1\\Objektinis programų projektavimas\\Projektas2\\Runner.SignalR\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gintas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\monik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

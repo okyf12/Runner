@@ -16,3 +16,24 @@ C:\Users\Gintas\Desktop\runer\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.Sign
 C:\Users\Gintas\Desktop\runer\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.RazorTargetAssemblyInfo.cache
 C:\Users\Gintas\Desktop\runer\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.dll
 C:\Users\Gintas\Desktop\runer\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.pdb
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\bin\Debug\netcoreapp3.1\appsettings.json
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\bin\Debug\netcoreapp3.1\Runner.SignalR.exe
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\bin\Debug\netcoreapp3.1\Runner.SignalR.deps.json
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\bin\Debug\netcoreapp3.1\Runner.SignalR.runtimeconfig.json
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\bin\Debug\netcoreapp3.1\Runner.SignalR.runtimeconfig.dev.json
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\bin\Debug\netcoreapp3.1\Runner.SignalR.dll
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\bin\Debug\netcoreapp3.1\Runner.SignalR.pdb
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.csproj.AssemblyReference.cache
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.AssemblyInfoInputs.cache
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.AssemblyInfo.cs
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.csproj.CoreCompileInputs.cache
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\staticwebassets\Runner.SignalR.StaticWebAssets.Manifest.cache
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\staticwebassets\Runner.SignalR.StaticWebAssets.xml
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\scopedcss\bundle\Runner.SignalR.styles.css
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.RazorTargetAssemblyInfo.cache
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.dll
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.pdb
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.genruntimeconfig.cache
