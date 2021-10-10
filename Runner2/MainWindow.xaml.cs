@@ -19,13 +19,35 @@ using System.Windows.Threading;
 
 namespace Runner2
 {
+    //abstract class AbstractPlayerFactory
+    //{
+    //    public abstract AbstractPlayerA CreatePlayerA();
+    //    public abstract AbstractPlayerB CreatePlayerB();
+    //}
+    //abstract class AbstractPlayerA
+    //{
+
+    //}
+    //abstract class AbstractPlayerB
+    //{
+
+    //}
+    //class  PlayerFactory : AbstractPlayerFactory
+    //{
+    //    public override AbstractPlayerA CreatePlayerA()
+    //    {
+    //        return 
+    //    }
+    //    public override AbstractPlayerA CreatePlayerB()
+    //    {
+    //        return 
+    //    }
+    //}
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
     {
-        
-
         SignalRService rService;
 
         DispatcherTimer gameTimer = new DispatcherTimer();
@@ -69,7 +91,7 @@ namespace Runner2
             rService.Connect();
 
             InitializeComponent();
-            MyCanvas.Focus();
+            MainWin.Focus();
 
             gameTimer.Tick += GameEngine;
             gameTimer.Interval = TimeSpan.FromMilliseconds(20);
@@ -79,12 +101,13 @@ namespace Runner2
             background.Fill = backgroundSprite;
             background2.Fill = backgroundSprite;
 
-            StartGame();
+            //StartGame();
         }
 
         private void SignalRService_TauntMessageReceived(string message)
         {
-            TauntMessage.Content = message;
+            //TauntMessage.Content = message;
+            players.Content += message + '\n';
         }
 
         private void StartGame()
@@ -108,6 +131,12 @@ namespace Runner2
             score = 0;
 
             scoreText.Content = "Score: " + score;
+
+            obstacle.Visibility = Visibility.Visible;
+            player.Visibility = Visibility.Visible;
+            background.Visibility = Visibility.Visible;
+            background2.Visibility = Visibility.Visible;
+            scoreText.Visibility = Visibility.Visible;
 
             gameTimer.Start();
         }
@@ -199,7 +228,7 @@ namespace Runner2
         {
             if (e.Key == Key.Space && gameOver == false && Canvas.GetTop(player) > 260)
             {
-                renameLater();
+                //renameLater();
                 jumping = true;
                 force = 15;
                 speed = -12;
@@ -207,9 +236,9 @@ namespace Runner2
             }
         }
 
-        private async Task renameLater()
+        private async Task renameLater(string name)
         {
-            await rService.SendTauntMessage("zinute");
+            await rService.SendTauntMessage(name);
         }
 
 
@@ -246,10 +275,30 @@ namespace Runner2
             }
             player.Fill = playerSprite;
         }
+        private void joinLobbyBtnClick(object sender, RoutedEventArgs e)
+        {
+            titlePlayers.Visibility = Visibility.Visible;
+            title.Visibility = Visibility.Hidden;
+            startGameBtn.Visibility = Visibility.Hidden;
+            nameInput.Visibility = Visibility.Hidden;
+            joinLobbyBtn.Visibility = Visibility.Hidden;
+            startGameBtn.Visibility = Visibility.Visible;
+            players.Visibility = Visibility.Visible;
+            //players.Content = nameInput.Text;
+            renameLater(nameInput.Text);
+        }
 
-        //-------Sending to server---
+        private void startBtnClick(object sender, RoutedEventArgs e)
+        {
+            MainBackground.Visibility = Visibility.Hidden;
+            startGameBtn.Visibility = Visibility.Hidden;
+            players.Visibility = Visibility.Hidden;
+            players.Visibility = Visibility.Hidden;
+            StartGame();
+        }
 
-       
+
+
 
     }
 }
