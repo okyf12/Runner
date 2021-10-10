@@ -7,15 +7,24 @@
 *.sln.docstates
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-build/
-bld/
-[Bb]in/
-[Oo]bj/
+Runner2/[Dd]ebug/
+Runner2/[Dd]ebugPublic/
+Runner2/[Rr]elease/
+Runner2/[Rr]eleases/
+Runner2/x64/
+Runner2/build/
+Runner2/bld/
+Runner2/[Bb]in/
+Runner2/[Oo]bj/
+Runner.SignalR/[Dd]ebug/
+Runner.SignalR/[Dd]ebugPublic/
+Runner.SignalR/[Rr]elease/
+Runner.SignalR/[Rr]eleases/
+Runner.SignalR/x64/
+Runner.SignalR/build/
+Runner.SignalR/bld/
+Runner.SignalR/[Bb]in/
+Runner.SignalR/[Oo]bj/
 
 # Roslyn cache directories
 *.ide/
