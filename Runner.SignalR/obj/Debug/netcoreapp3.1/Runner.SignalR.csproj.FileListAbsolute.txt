@@ -16,3 +16,42 @@ C:\Users\Gintas\Desktop\runer\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.Sign
 C:\Users\Gintas\Desktop\runer\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.RazorTargetAssemblyInfo.cache
 C:\Users\Gintas\Desktop\runer\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.dll
 C:\Users\Gintas\Desktop\runer\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.pdb
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\bin\Debug\netcoreapp3.1\appsettings.json
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\bin\Debug\netcoreapp3.1\Runner.SignalR.exe
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\bin\Debug\netcoreapp3.1\Runner.SignalR.deps.json
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\bin\Debug\netcoreapp3.1\Runner.SignalR.runtimeconfig.json
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\bin\Debug\netcoreapp3.1\Runner.SignalR.runtimeconfig.dev.json
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\bin\Debug\netcoreapp3.1\Runner.SignalR.dll
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\bin\Debug\netcoreapp3.1\Runner.SignalR.pdb
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.csproj.AssemblyReference.cache
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.AssemblyInfoInputs.cache
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.AssemblyInfo.cs
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.csproj.CoreCompileInputs.cache
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\staticwebassets\Runner.SignalR.StaticWebAssets.Manifest.cache
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\staticwebassets\Runner.SignalR.StaticWebAssets.xml
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\scopedcss\bundle\Runner.SignalR.styles.css
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.RazorTargetAssemblyInfo.cache
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.dll
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.pdb
+D:\OneDrive - Kaunas University of Technology\Univeras4-1\Objektinis programų projektavimas\Projektas2\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.genruntimeconfig.cache
+C:\Users\Gintas\Desktop\runner\Runner\Runner.SignalR\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Gintas\Desktop\runner\Runner\Runner.SignalR\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Gintas\Desktop\runner\Runner\Runner.SignalR\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Gintas\Desktop\runner\Runner\Runner.SignalR\bin\Debug\netcoreapp3.1\Runner.SignalR.exe
+C:\Users\Gintas\Desktop\runner\Runner\Runner.SignalR\bin\Debug\netcoreapp3.1\Runner.SignalR.deps.json
+C:\Users\Gintas\Desktop\runner\Runner\Runner.SignalR\bin\Debug\netcoreapp3.1\Runner.SignalR.runtimeconfig.json
+C:\Users\Gintas\Desktop\runner\Runner\Runner.SignalR\bin\Debug\netcoreapp3.1\Runner.SignalR.runtimeconfig.dev.json
+C:\Users\Gintas\Desktop\runner\Runner\Runner.SignalR\bin\Debug\netcoreapp3.1\Runner.SignalR.dll
+C:\Users\Gintas\Desktop\runner\Runner\Runner.SignalR\bin\Debug\netcoreapp3.1\Runner.SignalR.pdb
+C:\Users\Gintas\Desktop\runner\Runner\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.csprojAssemblyReference.cache
+C:\Users\Gintas\Desktop\runner\Runner\Runner.SignalR\obj\Debug\netcoreapp3.1\staticwebassets\Runner.SignalR.StaticWebAssets.Manifest.cache
+C:\Users\Gintas\Desktop\runner\Runner\Runner.SignalR\obj\Debug\netcoreapp3.1\staticwebassets\Runner.SignalR.StaticWebAssets.xml
+C:\Users\Gintas\Desktop\runner\Runner\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gintas\Desktop\runner\Runner\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.AssemblyInfoInputs.cache
+C:\Users\Gintas\Desktop\runner\Runner\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.AssemblyInfo.cs
+C:\Users\Gintas\Desktop\runner\Runner\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.RazorTargetAssemblyInfo.cache
+C:\Users\Gintas\Desktop\runner\Runner\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.dll
+C:\Users\Gintas\Desktop\runner\Runner\Runner.SignalR\obj\Debug\netcoreapp3.1\Runner.SignalR.pdb

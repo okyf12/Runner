@@ -12,12 +12,16 @@ namespace Runner2.Services
         private readonly HubConnection _connection;
 
         public event Action<string> TauntMessageReceived;
+        public event Action<int> PlayerCountReceived;
+        public event Action StartSignalReceived;
 
         public SignalRService(HubConnection connection)
         {
             _connection = connection;
 
             _connection.On<string>("ReceiveTauntMessage", (message) => TauntMessageReceived?.Invoke(message));
+            _connection.On<int>("ReceivePlayerCount", (currPlayer) => PlayerCountReceived?.Invoke(currPlayer));
+            _connection.On("ReceiveStartSignal", () => StartSignalReceived?.Invoke());
         }
 
         public async Task Connect()
@@ -28,6 +32,11 @@ namespace Runner2.Services
         public async Task SendTauntMessage(string message)
         {
             await _connection.SendAsync("SendTauntMessage", message);
+        }
+
+        public async Task SendStartSignal()
+        {
+            await _connection.SendAsync("SendStartSignal");
         }
     }
 }
